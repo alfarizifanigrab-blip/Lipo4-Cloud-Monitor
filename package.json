@@ -1,0 +1,17 @@
+{
+"name": "lipo4-cloud-monitor",
+"version": "1.0.0",
+"private": true,
+"description": "Cloud controller for LiFePO4 monitor",
+"main": "server.js",
+"scripts": {
+"start": "node server.js"
+},
+"engines": {
+"node": "22.x"
+},
+"dependencies": {
+"express": "^4.21.2",
+"playwright": "^1.55.0"
+}
+}
